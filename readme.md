@@ -1,4 +1,5 @@
-#Discord Study Bot
+# Discord Study Bot
+
 Testing
 **When running the bot on your terminal, use this.**
 
