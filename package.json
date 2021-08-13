@@ -9,9 +9,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^13.0.1",
+    "discord.js": "^13.2.0-dev.1628813079.f1d5ffc",
     "dotenv": "^10.0.0",
     "mongodb": "^4.1.0",
     "mongoose": "^5.13.7"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0"
   }
 }

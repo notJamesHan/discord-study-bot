@@ -1,0 +1,21 @@
+const Discord = require("discord.js");
+
+module.exports = {
+  name: "help",
+  description: "help",
+  execute(message) {
+    const exampleEmbed = new Discord.MessageEmbed()
+      .setColor("#0099ff")
+      .setTitle("Study bot helps!")
+      .setDescription("All study bot commands")
+      .setThumbnail(
+        "https://d1x26sjkwh9vok.cloudfront.net/uploads/profile/20210318/6d4b2890-31a2-4ce1-b600-7f17a7ed555d.png"
+      )
+      .addFields(
+        { name: "!ping", value: "returns pong!" },
+        { name: "!server", value: "Shows the server status" }
+      );
+
+    message.channel.send({ embeds: [exampleEmbed] });
+  },
+};
