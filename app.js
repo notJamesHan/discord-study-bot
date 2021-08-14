@@ -50,5 +50,5 @@ client.on("messageCreate", (message) => {
   }
 });
 
-mongoose.init();
+//mongoose.init();
 client.login(token);
