@@ -19,7 +19,7 @@ node app.js
 - You need config.json to run this project. Ask me if you need it.
 
 
-### Pictures
+## Pictures
 
 Study command
 
