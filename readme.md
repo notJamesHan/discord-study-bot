@@ -8,12 +8,12 @@ To use this bot, it is terminal hosted bot.
 node app.js
 ```
 
-### What was used
+## What was used
 - Javascript
 - Discord.js
 - MongoDB
 
-### What to know
+## What to know
 
 - You do not need to change **app.js**. Add new commands on **commands folder**.
 - You need config.json to run this project. Ask me if you need it.
