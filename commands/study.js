@@ -42,7 +42,7 @@ module.exports = {
         case "HELP":
           const helpEmbed = new Discord.MessageEmbed()
             .setColor("#c542f5")
-            .setTitle("!study help!")
+            .setTitle("!study help")
             .addFields(
               {
                 name: "`!study help`",

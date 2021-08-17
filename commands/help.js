@@ -18,6 +18,10 @@ module.exports = {
         {
           name: "!study",
           value: "Study motivation by timing how much you have studied!",
+        },
+        {
+          name: "!music",
+          value: "Finds study music based on users selected genre.",
         }
       );
 
