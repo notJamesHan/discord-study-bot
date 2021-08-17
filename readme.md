@@ -20,8 +20,12 @@ node app.js
 
 
 ### Preview Pictures
+
 Study command
+
 ![image](https://user-images.githubusercontent.com/77949696/129763423-e1f963be-abb0-47f9-9e26-21317ff84881.png)
+
 Music command
+
 ![image](https://user-images.githubusercontent.com/77949696/129763354-593a36d8-64ad-473b-832a-2c802d6b48a1.png)
 
