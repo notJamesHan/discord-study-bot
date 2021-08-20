@@ -1,5 +1,10 @@
 # Discord Study Bot
 
+## What was used
+- Javascript
+- Discord.js
+- MongoDB
+
 ***!!! PICTURES AT THE BOTTOM OR THIS LINK !!!***
 - [Project Pictures](https://flic.kr/s/aHsmWrZ9Jg)
 
@@ -13,11 +18,6 @@ To use this bot, it is terminal hosted bot.
 ```
 node app.js
 ```
-
-## What was used
-- Javascript
-- Discord.js
-- MongoDB
 
 ## Pictures
 
