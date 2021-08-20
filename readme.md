@@ -2,7 +2,7 @@
 
 Created a discord bot that helps users to study by giving study motivation features using **MongoDB and discord.js**.
 
-***!!! PICTURES AT THE BOTTOM OR THIS LINK !!!***
+### ***!!! PICTURES AT THE BOTTOM OR THIS LINK !!!***
 - [Project Pictures](https://flic.kr/s/aHsmWrZ9Jg)
 
 
