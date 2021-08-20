@@ -4,6 +4,7 @@
 - [Project Pictures](https://flic.kr/s/aHsmWrZ9Jg)
 
 
+
 To use this bot, it is terminal hosted bot.
 - Download the file and run it through your text editor (VS Code)
 **When running the bot on your terminal, use this.**
