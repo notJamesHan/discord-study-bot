@@ -1,9 +1,6 @@
 # Discord Study Bot
 
-## What was used
-- Javascript
-- Discord.js
-- MongoDB
+Created a discord bot that helps users to study by giving study motivation features using ***MongoDB and discord.js***.
 
 ***!!! PICTURES AT THE BOTTOM OR THIS LINK !!!***
 - [Project Pictures](https://flic.kr/s/aHsmWrZ9Jg)
@@ -18,6 +15,11 @@ To use this bot, it is terminal hosted bot.
 ```
 node app.js
 ```
+
+## What was used
+- Javascript
+- Discord.js
+- MongoDB
 
 ## Pictures
 
