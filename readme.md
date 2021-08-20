@@ -6,7 +6,7 @@
 
 ## How to use
 To use this bot, it is terminal hosted bot.
-- You need config.json to run this project. Ask me if you need it.
+- You need **config.json** to run this project. Ask me if you need it.
 - Download the file and run it through your text editor (VS Code)
 **When running the bot on your terminal, use this.**
 
