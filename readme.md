@@ -1,7 +1,7 @@
 # Discord Study Bot
 
 ***!!! PICTURES AT THE BOTTOM OR THIS LINK!!!***
-- [pictures album](https://flic.kr/s/aHsmWrZ9Jg)
+- [Project Pictures](https://flic.kr/s/aHsmWrZ9Jg)
 
 To use this bot, it is terminal hosted bot.
 - Download the file and run it through your text editor (VS Code)
