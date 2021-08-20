@@ -1,6 +1,6 @@
 # Discord Study Bot
 
-***!!!PICTURES AT THE BOTTOM!!!***
+***!!! PICTURES AT THE BOTTOM !!!***
 
 To use this bot, it is terminal hosted bot.
 - Download the file and run it through your text editor (VS Code)
