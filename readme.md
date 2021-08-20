@@ -1,10 +1,10 @@
 # Discord Study Bot
 
-***!!! PICTURES AT THE BOTTOM OR THIS LINK!!!***
+***!!! PICTURES AT THE BOTTOM OR THIS LINK !!!***
 - [Project Pictures](https://flic.kr/s/aHsmWrZ9Jg)
 
 
-
+## How to use
 To use this bot, it is terminal hosted bot.
 - Download the file and run it through your text editor (VS Code)
 **When running the bot on your terminal, use this.**
