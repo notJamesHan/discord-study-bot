@@ -18,7 +18,7 @@ With this bot, it will clear out the distraction to just focus on studying by on
 -  Using ``!study total``, it adds all the time user have studied and stores on database.
 
 
-  ![image](https://user-images.githubusercontent.com/77949696/129763423-e1f963be-abb0-47f9-9e26-21317ff84881.png)
+    ![image](https://user-images.githubusercontent.com/77949696/129763423-e1f963be-abb0-47f9-9e26-21317ff84881.png)
 
 
 ## What was used
