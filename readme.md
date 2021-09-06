@@ -8,7 +8,10 @@ With this bot, it will clear out the distraction to just focus on studying by on
 ### ***!!! More pictures here !!!***
 - [Project Pictures](https://flic.kr/s/aHsmWrZ9Jg)
 
-## What 
+## What Study Helper Bot does
+- Finds studying music depending on genres(Lofi, Classical, Ambient...).
+- Times how long the user have studied.
+- Adds all the time user have studied and stores on database.
 
 ## What was used
 - Javascript
