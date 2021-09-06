@@ -26,6 +26,14 @@ With this bot, it will clear out the distraction to just focus on studying by on
 - Discord.js
 - MongoDB
 - yt-search
+- Heroku
+
+## How we built it
+We created the discord bot using Javascript and youtube API package from yt-search.
+
+For backend, our bot utlizes liberiry called Discord.js and database called MongoDB to store all the information about the user's study time.
+
+For deployment, the bot is deployed on heroku for 24/7 hosting.
 
 
 ## How to use
