@@ -8,14 +8,14 @@ With this bot, it will clear out the distraction to just focus on studying by on
 
 
 ## What Study Helper Bot does
-- Helps to find what command you will use.
-- Using ``!music``, itfinds studying music depending on genres(Lofi, Classical, Ambient...).
+- Using ``!help``, it helps to find what command you will use.
+- Using ``!music``, it finds studying music depending on genres(Lofi, Classical, Ambient...).
 
 
   ![image](https://user-images.githubusercontent.com/77949696/129763354-593a36d8-64ad-473b-832a-2c802d6b48a1.png)
   
-- Times how long the user have studied.
-- Adds all the time user have studied and stores on database.
+-  Using ``!study clockin`` or ``!study clockout``, it times how long the user have studied by clocking in and out.
+-  Using ``!study total``, it adds all the time user have studied and stores on database.
 
 
   ![image](https://user-images.githubusercontent.com/77949696/129763423-e1f963be-abb0-47f9-9e26-21317ff84881.png)
