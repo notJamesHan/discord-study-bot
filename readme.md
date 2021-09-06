@@ -5,7 +5,7 @@ We wanted to create a bot that motivates people to study when they cannot be foc
 
 With this bot, it will clear out the distraction to just focus on studying by only using this bot to setup your studying environment.
 
-### ***!!! MORE PICTURES AT THIS LINK !!!***
+### ***!!! More pictures here !!!***
 - [Project Pictures](https://flic.kr/s/aHsmWrZ9Jg)
 
 ## What was used
