@@ -25,7 +25,7 @@ With this bot, it will clear out the distraction to just focus on studying by on
 - Javascript
 - Discord.js
 - MongoDB
-- Yt-search
+- yt-search
 
 
 ## How to use
