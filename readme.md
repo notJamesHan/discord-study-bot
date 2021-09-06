@@ -10,6 +10,8 @@ With this bot, it will clear out the distraction to just focus on studying by on
 ## What Study Helper Bot does
 - Helps to find what command you will use.
 - Using ``!music``, itfinds studying music depending on genres(Lofi, Classical, Ambient...).
+
+
   ![image](https://user-images.githubusercontent.com/77949696/129763354-593a36d8-64ad-473b-832a-2c802d6b48a1.png)
   
 - Times how long the user have studied.
