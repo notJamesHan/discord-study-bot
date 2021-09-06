@@ -1,5 +1,5 @@
 ## Inspiration
-We wanted to create a bot that motivates people to study when they cannot be focused. We would try to time ourselves how much we should study, what music should I listen during studying. 
+We wanted to create a bot that motivates people to study when they cannot be focused. We would waste our time setting up for the study environment. Such as try to time ourselves how much we should study, what music should I listen during studying.
 
 With this bot, it will clear out the distraction to just focus on studying by only using this bot to setup your studying environment.
 
