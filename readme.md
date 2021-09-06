@@ -36,7 +36,7 @@ For backend, our bot utlizes liberiry called Discord.js and database called Mong
 For deployment, the bot is deployed on heroku for 24/7 hosting.
 
 
-## How to use
+## How to use (not available)
 If you want to test it out yourself, it can be run as a terminal bot.
 - You need **config.json** to run this project. Ask me if you need it.
 - Download the file and run it through your text editor (VS Code)
