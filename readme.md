@@ -1,4 +1,4 @@
-# Discord Study Bot
+# Study Helper Bot
 
 ## Inspiration
 We wanted to create a bot that motivates people to study when they cannot be focused. We would try to time ourselves how much we should study, what music should I listen during studying. 
@@ -7,6 +7,8 @@ With this bot, it will clear out the distraction to just focus on studying by on
 
 ### ***!!! More pictures here !!!***
 - [Project Pictures](https://flic.kr/s/aHsmWrZ9Jg)
+
+## What 
 
 ## What was used
 - Javascript
