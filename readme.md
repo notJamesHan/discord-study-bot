@@ -35,6 +35,7 @@ For backend, our bot utlizes liberiry called Discord.js and database called Mong
 
 For deployment, the bot is deployed on heroku for 24/7 hosting.
 
+<img width="946" alt="Heroku" src="https://user-images.githubusercontent.com/77949696/132406775-d7da127c-0fb2-4c4c-b826-f4390cce0902.PNG">
 
 ## How to use (not available)
 If you want to test it out yourself, it can be run as a terminal bot.
