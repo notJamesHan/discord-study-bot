@@ -29,11 +29,11 @@ With this bot, it will clear out the distraction to just focus on studying by on
 - Heroku
 
 ## How we built it
-We created the discord bot using Javascript and youtube API package from yt-search.
+We created the discord bot using Javascript and youtube **RESTful API** package from yt-search.
 
-For backend, our bot utlizes liberiry called Discord.js and database called MongoDB to store all the information about the user's study time.
+For backend, our bot utlizes liberiry called Discord.js and database called **MongoDB** to store all the information about the user's study time.
 
-For deployment, the bot is deployed on heroku for 24/7 hosting.
+For deployment, the bot is deployed on **heroku** for 24/7 hosting and maintained for studying discord server with an average of **5-20 users** per day.
 
 <img width="946" alt="Heroku" src="https://user-images.githubusercontent.com/77949696/132406775-d7da127c-0fb2-4c4c-b826-f4390cce0902.PNG">
 
