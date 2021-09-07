@@ -4,7 +4,8 @@ const User = require("../schemas/UserSchema");
 const mongoose = require("mongoose");
 const { pass } = require("../config.json");
 mongoose.connect(
-  `mongodb+srv://discordbot:${pass}@cluster0.vv3th.mongodb.net/myFirstDatabase?retryWrites=true&w=majority`
+  `mongodb+srv://discordbot:${pass}@cluster0.vv3th.mongodb.net/myFirstDatabase?retryWrites=true&w=majority`,
+  { useNewUrlParser: true, useUnifiedTopology: true }
 );
 
 module.exports = {
