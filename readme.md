@@ -1,7 +1,7 @@
 ## Inspiration
 We wanted to create a bot that motivates people to study when they cannot be focused. We would waste our time setting up a studying environment. Such as trying to time ourselves how much we should study, what music should we listen during studying.
 
-With this bot, it will clear out the distraction to just focus on studying by only using this bot to setup your studying environment.
+With this bot, it will clear out all the distraction and make us focus on studying by using this bot to setup your studying environment.
 
 ### ***!!! More pictures here !!!***
 - [Project Pictures](https://flic.kr/s/aHsmWrZ9Jg)
@@ -29,9 +29,9 @@ With this bot, it will clear out the distraction to just focus on studying by on
 - Heroku
 
 ## How we built it
-We created the discord bot using Javascript and youtube **RESTful API** package from yt-search.
+We created the discord bot using **Javascript** and youtube **RESTful API** package from yt-search.
 
-For backend, our bot utlizes liberiry called Discord.js and database called **MongoDB** to store all the information about the user's study time.
+For backend, our bot utlizes library called **Discord.js** and database called **MongoDB** to store all the information about the user's study time.
 
 For deployment, the bot is deployed on **heroku** for 24/7 hosting and maintained for studying discord server with an average of **5-20 users** per day.
 
