@@ -3,9 +3,6 @@ We wanted to create a bot that motivates people to study when they cannot be foc
 
 With this bot, it will clear out all the distraction and make us focus on studying by using this bot to setup your studying environment.
 
-### ***!!! More pictures here !!!***
-- [Project Pictures](https://flic.kr/s/aHsmWrZ9Jg)
-
 
 ## What Study Helper Bot does
 - Using ``!help``, it helps to find what command you will use.
